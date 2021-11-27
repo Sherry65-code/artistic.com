@@ -110,3 +110,7 @@ h1{
     background-color: rgba(249, 72, 255, 0.842);
     color: aliceblue;
 }
+a{
+    text-decoration: none;
+    color: aqua;
+}
